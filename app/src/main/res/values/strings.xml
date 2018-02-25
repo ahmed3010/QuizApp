@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">Question 1 :</string>
+    <string name="question_2">Question 2 :</string>
+    <string name="question_3">Question 3 :</string>
+    <string name="question_4">Question 4 :</string>
+    <string name="question_5">Question 5 :</string>
+    <string name="question_6">Question 6 :</string>
+    <string name="question_7">Question 7 :</string>
+    <string name="question_8">Question 8 :</string>
+    <string name="question_9">Question 9 :</string>
+
+    <string name="question_1_value">Look at this series: 7, 10, 8, 11, 9, 12,&#8230;
+        \nWhat number should come next?
+    </string>
+    <string name="answer_a_question_1">7</string>
+    <string name="answer_b_question_1">10</string>
+    <string name="answer_c_question_1">12</string>
+    <string name="answer_d_question_1">13</string>
+
+    <string name="question_2_value">Look at this series: 2, 3, 4, 5, 6, 4, 8, &#8230;\nWhat 2 numbers should come next?</string>
+    <string name="answer_a_question_2">9 , 10</string>
+    <string name="answer_b_question_2">4 , 8</string>
+    <string name="answer_c_question_2">10 , 4</string>
+    <string name="answer_d_question_2">9 , 4</string>
+
+    <string name="question_3_value">ELFA GLHA ILJA _____ MLNA
+        \nWhat should come next ?
+    </string>
+    <string name="answer_a_question_3">OLPA</string>
+    <string name="answer_b_question_3">KLMA</string>
+    <string name="answer_c_question_3">LLMA</string>
+    <string name="answer_d_question_3">KLLA</string>
+
+    <string name="question_4_value">Here are some words translated from an artificial language.
+        \n<i>gorblflur</i><b> means</b> fan belt
+        \n<i>pixngorbl</i> <b> means</b> ceiling fan
+        \n<i>arthtusl</i><b> means</b> tile roof
+        \nWhich word could mean <b>ceiling tile</b>?</string>
+    <string name="answer_a_question_4"><i>gorbltusl</i></string>
+    <string name="answer_b_question_4"><i>flurgorbl</i></string>
+    <string name="answer_c_question_4"><i>arthflur</i></string>
+    <string name="answer_d_question_4"><i>pixnarth</i></string>
+
+    <string name="question_5_value">Here are some words translated from an artificial language.
+        \n<i>agnoscrenia</i> <b>means</b> poisonous spider
+        \n<i>delanocrenia</i> <b>means</b> poisonous snake
+        \n<i>agnosdeery</i> <b>means</b> brown spider
+        \nWhich word could mean <b>black widow spider</b>?</string>
+    <string name="answer_a_question_5"> <i> deeryclostagnos </i> </string>
+    <string name="answer_b_question_5"> <i> agnosdelano </i> </string>
+    <string name="answer_c_question_5"> <i> agnosvitriblunin </i> </string>
+    <string name="answer_d_question_5"> <i> trymuttiagnos </i> </string>
+
+    <string name="question_6_value">Sara lives in a large city on the East Coast.\n
+        Her younger cousin Marlee lives in the Midwest in a small town with fewer than 1,000
+        residents.\nMarlee has visited Sara several
+        times during the past five years.\nIn the same
+        period of time, Sara has visited Marlee only
+        once.\nWhich of the following is true
+    </string>
+    <string name="answer_a_question_6">Marlee likes Sara better than Sara likes Marlee.</string>
+    <string name="answer_b_question_6">Sara thinks small towns are boring.</string>
+    <string name="answer_c_question_6">Sara is older than Marlee.</string>
+    <string name="answer_d_question_6">Marlee wants to move to the East Coast.</string>
+
+    <string name="question_7_value">All spotted Gangles have long tails.
+        \nShort-haired Gangles always have short tails.
+        \nLong-tailed Gangles never have short hair.
+        \nIf the first two statements are true, the third
+        statement is</string>
+    <string name="answer_a_question_7">true</string>
+    <string name="answer_b_question_7">false</string>
+    <string name="answer_c_question_7">uncertain</string>
+    <string name="answer_d_question_7"> </string>
+
+    <string name="question_8_value">Fact 1: All chickens are birds.
+        \nFact 2: Some chickens are hens.
+        \nFact 3: Female birds lay eggs.
+        \nIf the first three statements are facts, which of
+        the following statements must also be a fact?
+    </string>
+    <string name="answer_a_question_8">All birds lay eggs.</string>
+    <string name="answer_b_question_8">Hens are birds.</string>
+    <string name="answer_c_question_8">Some chickens are not hens</string>
+    <string name="answer_d_question_8">None of the statements is a known fact</string>
+
+
+    <string name="question_9_value">How many minutes is it before 12 noon, if 48 minutes ago
+it was twice as many minutes past 9 a.m.?</string>
+
+    <string name="start">Start</string>
+    <string name="next">next</string>
+    <string name="view_score">View Score</string>
+    <string name="answer_the_question">Please answer the question</string>
+    <string name="quiz">Iq Quiz</string>
+    <string name="copyright">* Hint : All the questions in this app are taken from
+        \n 1. <b>501 CHALLENGING LOGIC AND REASONING PROBLEMS</b>
+        \n\t\t Copyright © 2005 LearningExpress, LLC.
+        \n\n2. <b>Book OF IO TESTS </b>
+        \n\t\t Copyright © Ken Russell and Philip Carter, 2005</string>
+</resources>
